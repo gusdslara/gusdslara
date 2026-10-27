@@ -20,4 +20,4 @@ Arquiteto de Software e **Tech Lead** com perfil poliglota e sólida experiênci
 
 
 > [!IMPORTANT]
-> Meus repos antigos [![GitHub Antigo](https://img.shields.io/badge/gustavodslara-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gustavodslara?tab=repositories)
+>  [![GitHub Antigo](https://img.shields.io/badge/gustavodslara-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gustavodslara?tab=repositories)
